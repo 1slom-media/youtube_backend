@@ -1,0 +1,5 @@
+/login ---- POST ---- Fri Aug 26 2022 07:03:19 GMT+0500 (Узбекистан, стандартное время) ------ a is not defined
+/register ---- POST ---- Fri Aug 26 2022 07:16:12 GMT+0500 (Узбекистан, стандартное время) ------ Cannot read properties of null (reading 'image')
+
+/register ---- POST ---- Wed Aug 31 2022 03:29:09 GMT+0500 (Узбекистан, стандартное время) ------ Cannot read properties of undefined (reading 'image')
+/register ---- POST ---- Wed Aug 31 2022 03:48:33 GMT+0500 (Узбекистан, стандартное время) ------ Cannot read properties of undefined (reading 'image')
